@@ -1,2 +1,2 @@
 # hello-world
-Hello fot testing
+Hello for testing
